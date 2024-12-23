@@ -30,6 +30,8 @@ For further details, refer to the official [data page](https://www.kaggle.com/co
 ## Approaches
 We will break down our approach into two different parts including data preprocessing and modeling.
 
+![Pipeline](./figs/pipeline.png)
+
 ### Data Preprocessing
 
 Given the complexity and sparsity of the dataset, robust preprocessing was critical. Steps included:
